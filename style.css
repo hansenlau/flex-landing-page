@@ -59,6 +59,14 @@ h2 {
     margin: 0;
 }
 
+h3 {
+    color: #1f2937;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;  
+}
+
 button {
     color: #f9faf8;
     border-radius: 3px;
@@ -72,10 +80,59 @@ button {
     padding: 3px 20px;
 }
 
-p {
+.sec1 p {
     color: #e5e7eb;
     font-size: 18px;
     font-weight: normal;
     font-family: 'Roboto', sans-serif;
     margin: 0;
+}
+
+.thumbnail{
+    width: 100px;
+    height:100px;
+}
+
+.sec2 {
+    padding: 0 10%;
+}
+
+.sec3 {
+    padding: 0 10%;
+    background-color: #e5e7eb;
+}
+
+p {
+    color: #1f2937;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+.quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    margin: 0;
+}
+
+.author {
+    color: #1f2937;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    text-align: right;
+}
+
+.top-menu p {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    text-align: center;
 }
